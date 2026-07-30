@@ -1,6 +1,6 @@
 # List of 350+ Free TryHackMe Rooms for Cybersecurity Enthusiasts 🌐
 
-**This repository contains a comprehensive list of 350+ free rooms available on TryHackMe (THM) to help you dive into the world of cybersecurity, whether you’re a beginner or looking to sharpen specific skills. TryHackMe offers guided, hands-on rooms that simulate real- world scenarios, making it a valuable resource for anyone interested in networksecurity, penetration testing, web application hacking, and more.**
+**This repository contains a comprehensive list of 350+ free rooms available on TryHackMe (THM) to help you dive into the world of cybersecurity, whether you’re a beginner or looking to sharpen s[...]
 
 **Features**:
 
@@ -11,7 +11,7 @@
 
 # Why This List?
 
-**With this curated selection, you won’t need to sift through countless rooms to find relevant learning paths. This list makes it easier to start, progress, and complete targeted cybersecurity training, boosting your confidence and skills across different domains within the field.**
+**With this curated selection, you won’t need to sift through countless rooms to find relevant learning paths. This list makes it easier to start, progress, and complete targeted cybersecurity t[...]
 
 
 ---
@@ -22,7 +22,7 @@
 
 <br/>
 
-"Here's a list of **350+ free TryHackMe rooms🎉**, organized by topic to help you easily explore different areas of cybersecurity like network security and web exploitation. All rooms are completely *free—enjoy hacking and learning*!"
+"Here's a list of **350+ free TryHackMe rooms🎉**, organized by topic to help you easily explore different areas of cybersecurity like network security and web exploitation. All rooms are comple[...]
 
 
 <br/>
@@ -57,7 +57,7 @@
 | **[Easy CTF](#easy-ctf)**                         |     **58**      |                           |
 | **[Medium CTF](#medium-ctf)**                     |     **73**      |                           |
 | **[Hard CTF](#hard-ctf)**                         |     **38**      |                           |
-| **[Misc](#misc)**                                 |     **35**      |                           |
+| **[Misc](#misc)**                                 |      **35**      |                           |
 | **[Special Events](#special-events)**             |      **9**      |                           |
 | **Total Rooms:**                                  |     **378**     |                           |
 
@@ -337,7 +337,7 @@
 
 - [ ] [TryHackMe | Volatility](https://tryhackme.com/room/bpvolatility)
 
-- [ ] [TryHackMe | Disk Analysis &amp; Autopsy](https://tryhackme.com/room/autopsy2ze0)
+- [ ] [TryHackMe | Disk Analysis & Autopsy](https://tryhackme.com/room/autopsy2ze0)
 
 ## Wi-Fi Hacking
 
@@ -549,7 +549,7 @@
 
 - [ ] [TryHackMe | Overpass](https://tryhackme.com/room/overpass)
 
-- [ ] [TryHackMe | Gotta Catch&#39;em All!](https://tryhackme.com/room/pokemon)
+- [ ] [TryHackMe | Gotta Catch' em All!](https://tryhackme.com/room/pokemon)
 
 - [ ] [TryHackMe | Bolt](https://tryhackme.com/room/bolt)
 
@@ -691,7 +691,7 @@
 
 - [ ] [TryHackMe | battery](https://tryhackme.com/room/battery)
 
-- [ ] [TryHackMe | Madeye&#39;s Castle](https://tryhackme.com/room/madeyescastle)
+- [ ] [TryHackMe | Madeye's Castle](https://tryhackme.com/room/madeyescastle)
 
 - [ ] [TryHackMe | En-pass](https://tryhackme.com/room/enpass)
 
@@ -725,7 +725,7 @@
 
 - [ ] [TryHackMe | Super-Spam](https://tryhackme.com/room/superspamr)
 
-- [ ] [TryHackMe | That&#39;s The Ticket](https://tryhackme.com/room/thatstheticket)
+- [ ] [TryHackMe | That's The Ticket](https://tryhackme.com/room/thatstheticket)
 
 - [ ] [TryHackMe | Debug](https://tryhackme.com/room/debug)
 
@@ -765,7 +765,7 @@
 
 - [ ] [TryHackMe | Racetrack Bank](https://tryhackme.com/room/racetrackbank)
 
-- [ ] [TryHackMe | Dave&#39;s Blog](https://tryhackme.com/room/davesblog)
+- [ ] [TryHackMe | Dave's Blog](https://tryhackme.com/room/davesblog)
 
 - [ ] [TryHackMe | CherryBlossom](https://tryhackme.com/room/cherryblossom)
 
@@ -791,7 +791,7 @@
 
 - [ ] [TryHackMe | Year of the Dog](https://tryhackme.com/room/yearofthedog)
 
-- [ ] [TryHackMe | You&#39;re in a cave](https://tryhackme.com/room/inacave)
+- [ ] [TryHackMe | You're in a cave](https://tryhackme.com/room/inacave)
 
 - [ ] [TryHackMe | Year of the Owl](https://tryhackme.com/room/yearoftheowl)
 
@@ -926,5 +926,3 @@ Information
 Author❤️: [UTTAM BODARA](https://buymeacoffee.com/uttambodara)
 
 License💀: [MIT License](https://opensource.org/licenses/MIT)
-
-
