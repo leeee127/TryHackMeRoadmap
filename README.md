@@ -81,7 +81,7 @@
 
 - [x] [TryHackMe | Introductory Researching](https://tryhackme.com/room/introtoresearch)
 
-- ~~[ ] [TryHackMe | CC: Pen Testing](https://tryhackme.com/room/ccpentesting)~~
+- ~~[TryHackMe | CC: Pen Testing](https://tryhackme.com/room/ccpentesting)~~
 
 - [x] [TryHackMe | Regular expressions](https://tryhackme.com/room/catregex)
 
@@ -95,9 +95,9 @@
 
 - [x] [TryHackMe | Linux Fundamentals Part 1](https://tryhackme.com/room/linuxfundamentalspart1)
 
-- ~~[ ] [TryHackMe | Linux Fundamentals Part 2](https://tryhackme.com/room/linuxfundamentalspart2)~~
+- ~~[TryHackMe | Linux Fundamentals Part 2](https://tryhackme.com/room/linuxfundamentalspart2)~~
 
-- ~~[ ] [TryHackMe | Linux Fundamentals Part 3](https://tryhackme.com/room/linuxfundamentalspart3)~~
+- ~~[TryHackMe | Linux Fundamentals Part 3](https://tryhackme.com/room/linuxfundamentalspart3)~~
 
 ## Windows Fundamentals
 
@@ -113,11 +113,11 @@
 
 ---
 
-- ~~[ ] [TryHackMe | Basic Pentesting](https://tryhackme.com/room/basicpentestingjt)~~
+- ~~[TryHackMe | Basic Pentesting](https://tryhackme.com/room/basicpentestingjt)~~
 
 - [x] [TryHackMe | Pentesting Fundamentals](https://tryhackme.com/room/pentestingfundamentals)
 
-- ~~[ ] [TryHackMe | Principles of Security](https://tryhackme.com/room/principlesofsecurity)~~
+- ~~[TryHackMe | Principles of Security](https://tryhackme.com/room/principlesofsecurity)~~
 
 - [ ] [TryHackMe | The Hacker Methodology](https://tryhackme.com/room/hackermethodology)
 
