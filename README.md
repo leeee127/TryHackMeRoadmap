@@ -107,7 +107,7 @@
 
 - [ ] [TryHackMe | Windows Fundamentals 2](https://tryhackme.com/room/windowsfundamentals2x0x)
 
-- ~~[ ] [TryHackMe | Windows Fundamentals](https://tryhackme.com/room/windowsfundamentals3xzx)~~
+- ~~[TryHackMe | Windows Fundamentals](https://tryhackme.com/room/windowsfundamentals3xzx)~~
 
 ## Basics Rooms
 
