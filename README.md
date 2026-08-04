@@ -69,7 +69,7 @@
 
 - [x] [TryHackMe | How to use TryHackMe](https://tryhackme.com/room/howtousetryhackme)
 
-- [ ] [TryHackMe | Welcome(x)](https://tryhackme.com/room/welcome)
+- ~~[TryHackMe | Welcome](https://tryhackme.com/room/welcome)~~
 
 - [x] [TryHackMe | Tutorial](https://tryhackme.com/room/tutorial)
 
